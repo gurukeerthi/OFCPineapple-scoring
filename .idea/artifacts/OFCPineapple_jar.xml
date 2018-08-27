@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OFCPineapple:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OFCPineapple_jar</output-path>
+    <root id="archive" name="OFCPineapple.jar">
+      <element id="module-output" name="OFCPineapple" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.48/jcommander-1.48.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
